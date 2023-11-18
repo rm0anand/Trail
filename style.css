@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width:  100%;
+
+}
+#bg{
+    height: 100%;
+    width: 100%;
+    background-image: url(./stock-photo-1080429456.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: buttermilk;
+    color: aliceblue;
+    font-size: 190px;
+}
